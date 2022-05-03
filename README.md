@@ -1,1 +1,1 @@
--Hi my name is Samuel Maya I'm currently advancing my software development skills and will be posting my progress here as my journey continues.
+-Hi my name is Sam Maya and I am a software engineer, feel free to look through my code and ask questions or point out ways you think my code can be improved.

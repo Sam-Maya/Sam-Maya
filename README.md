@@ -1,1 +1,1 @@
--Hi my name is Sam Maya and I am a software engineer, feel free to look through my code and ask questions or point out ways you think my code can be improved.
+-Hi my name is Sam Maya and I am a software engineer check out my portfolio site samuelthedev.com.
